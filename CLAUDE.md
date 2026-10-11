@@ -21,3 +21,4 @@ This is a Student Management System developed as a learning project for a BS Com
 - Preserve existing functionality when editing code.
 - Ask questions if requirements are unclear.
 - Update the README when project details change.
+- Document only features that have been tested or verified.
