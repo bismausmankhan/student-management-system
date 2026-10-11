@@ -1,19 +1,28 @@
-# student-management-system
-A Java-based Student Management System demonstrating object-oriented programming concepts.
 # Student Management System
 
+A Java-based project for learning and practicing Object-Oriented Programming (OOP) concepts.
+
 ## Overview
-A Java project for practicing Object-Oriented Programming (OOP) concepts.
+
+The Student Management System is a learning project developed as part of my journey in Computer Science. Its purpose is to practice Java programming and apply OOP principles.
 
 ## Current Features
+
 - Project setup and documentation.
 
+*Note: Additional features will be listed here after they have been implemented and verified.*
+
 ## Technologies Used
-- Java
-- Object-Oriented Programming (OOP)
+
+- **Programming Language:** Java
+- **Programming Approach:** Object-Oriented Programming (OOP)
 
 ## Project Goal
-To build a student management application while learning Java and applying OOP principles.
+
+To develop a Student Management System while improving Java programming skills and understanding core OOP concepts.
 
 ## Project Status
-Under development. Features will be added and documented as they are implemented.
+
+**Under Development**
+
+The project is a work in progress. The README will be updated as new features are implemented and tested.
